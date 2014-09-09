@@ -1,0 +1,33 @@
+{
+  "name": "bowerVersionadoPublicacion",
+  "version": "0.0.1",
+  "homepage": "https://github.com/albertoom/bowerPublicacion.git",
+  "authors": [
+    "AlbertoFernandez <alberto.fernandez@optivamedia.com>"
+  ],
+  "description": "Un ejemplo de publicacion de un proyecto con Bower",
+  "license": "MIT",
+  "main": "dist/index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ejemplo",
+    "publicacion",
+    "proyecto"
+  ],
+  "ignore": [
+    "especificaciones",
+    "css",
+    "img",
+    "js",
+    "libs",
+    ".project",
+    "bower.json",
+    "index.html",
+    ".bowerrc"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
